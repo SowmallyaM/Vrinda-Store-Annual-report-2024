@@ -5,7 +5,7 @@
 The Vrinda Store wants to create an annual sales report for 2024. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2025.
 
 ## **Dataset used**
-- <a href="https://github.com/SowmallyaM/Vrinda-Store-Annual-report-2024/blob/main/Vrinda%20Store%20Data%20Analysis%202024.xlsx">Vrinda Store Data</a>
+- <a href="https://github.com/SowmallyaM/Vrinda-Store-Annual-report-2024/blob/main/Vrinda%20Store%20Data%20Analysis%202024.xlsx">Vrinda Store 2024 Data</a>
 
 ## **Questions (KPIs)**
 
